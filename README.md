@@ -61,7 +61,7 @@ See [the command reference](https://github.com/vim-volt/volt/blob/master/CMDREF.
 ### Install
 
 * [Download](https://github.com/vim-volt/volt/releases)
-* Or `go get github.com/vim-volt/volt`
+* Or `go install github.com/vim-volt/volt@latest`
 
 Optional: Bash/Zsh completion scripts in [\_contrib/completion/](https://github.com/vim-volt/volt/blob/master/_contrib/completion) directory (by @AvianY, @mrymtsk).
 
